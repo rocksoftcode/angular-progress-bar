@@ -1,0 +1,14 @@
+{
+  "name": "angular-progress-bar",
+  "description": "A simple progress bar for Angular JS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rockympls/angular-progress-bar",
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "bootstrap": "~3.3.6",
+    "angular-route": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-animate": "1.4.x"
+  }
+}
