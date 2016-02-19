@@ -6,4 +6,4 @@ To try it out:
 npm start
 ```
 
-You'll have a servdr running locally on port 8000. 
+You'll have a server running locally on port 8000. 
